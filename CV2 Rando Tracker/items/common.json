@@ -1,0 +1,180 @@
+[
+  
+  // Rib
+  {
+    "name": "Rib",
+    "type": "toggle",
+    "img": "images/rib.png",
+    "codes": "rib"
+  },
+  
+  // Heart
+  {
+    "name": "Heart",
+    "type": "toggle",
+    "img": "images/heart.png",
+    "codes": "heart"
+  },
+  
+  // Eye
+  {
+    "name": "Eye",
+    "type": "toggle",
+    "img": "images/eye.png",
+    "codes": "eye"
+  },
+  
+  // Nail
+  {
+    "name": "Nail",
+    "type": "toggle",
+    "img": "images/nail.png",
+    "codes": "nail"
+  },
+  
+  // Ring
+  {
+    "name": "Ring",
+    "type": "toggle",
+    "img": "images/ring.png",
+    "codes": "ring"
+  },
+  
+  // Magic Cross
+  {
+    "name": "Magic Cross",
+    "type": "toggle",
+    "img": "images/cross.png",
+    "codes": "cross"
+  },
+  
+  // Holy Water
+  {
+    "name": "Holy Water",
+    "type": "toggle",
+    "img": "images/hwater.png",
+    "codes": "hwater"
+  },
+  
+  // Dagger
+  {
+    "name": "Dagger",
+    "type": "toggle",
+    "img": "images/dagger.png",
+    "codes": "dagger"
+  },
+  
+  // Silver Knife
+  {
+    "name": "Silver Knife",
+    "type": "toggle",
+    "img": "images/sknife.png",
+    "codes": "sknife"
+  },
+  
+  // Gold Knife
+  {
+    "name": "Gold Knife",
+    "type": "toggle",
+    "img": "images/gknife.png",
+    "codes": "gknife"
+  },
+  
+  // Diamond
+  {
+    "name": "Diamond",
+    "type": "toggle",
+    "img": "images/diamond.png",
+    "codes": "diamond"
+  },
+  
+  // Laurels
+  {
+    "name": "Laurels",
+    "type": "toggle",
+    "img": "images/laurels.png",
+    "codes": "laurels"
+  },
+  
+  // Garlic
+  {
+    "name": "Garlic",
+    "type": "toggle",
+    "img": "images/garlic.png",
+    "codes": "garlic"
+  },
+  
+  // Oak Stake
+  {
+    "name": "Oak Stake",
+    "type": "toggle",
+    "img": "images/stake.png",
+    "codes": "stake"
+  },
+  
+  // Sacred Flame
+  {
+    "name": "Sacred Flame",
+    "type": "toggle",
+    "img": "images/sflame.png",
+    "codes": "sflame"
+  },
+  
+  // Silk Bag
+  {
+    "name": "Silk Bag",
+    "type": "toggle",
+    "img": "images/sbag.png",
+    "codes": "sbag"
+  },
+  
+  // Progressive Crystals
+  {
+    "name": "Crystal",
+    "type": "progressive_toggle",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/wcrystal.png",
+        "codes": "crystal,white"
+      },
+      {
+        "img": "images/bcrystal.png",
+        "codes": "crystal,blue"
+      },
+      {
+        "img": "images/rcrystal.png",
+        "codes": "crystal,red"
+      }
+     ]
+  },
+  
+  // Progressive Whips
+  {
+    "name": "Whips",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+         "img": "images/lwhip.png",
+         "codes": "whip,leather"
+      },
+      {
+         "img": "images/twhip.png",
+         "codes": "whip,thorn"
+      },
+      {
+         "img": "images/cwhip.png",
+         "codes": "whip,chain"
+      },
+      {
+         "img": "images/mwhip.png",
+         "codes": "whip,morningstar"
+      },
+      {
+         "img": "images/fwhip.png",
+         "codes": "whip,flame"
+      }
+     ]
+  }
+]

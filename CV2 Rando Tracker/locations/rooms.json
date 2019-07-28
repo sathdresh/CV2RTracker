@@ -1,0 +1,639 @@
+[
+
+  {
+    "name": "CV2",
+    "color": "#059134",
+    "children": [
+
+      {
+        "name": "Ondol",
+        "group": "Ondol Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 1856,
+                "y": 624
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1,
+                "access_rules": [ "hwater", "{}" ]
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 1468,
+                "y": 490
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Alba",
+        "group": "Alba Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 2826,
+                "y": 608
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1,
+                "access_rules": [ "hwater", "{}" ]
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 2282,
+                "y": 290
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1,
+                "access_rules": [ "hwater", "{}" ]
+              }
+            ]
+          },
+          {
+            "name": "Crystal Vendor",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 2584,
+                "y": 648
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jova",
+        "group": "Jova Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 4344,
+                "y": 872
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 4890,
+                "y": 842
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Crystal Vendor",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 4778,
+                "y": 852
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Overworld",
+        "group": "Overworld Area",
+
+        "children": [
+          {
+            "name": "Cliff",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 82,
+                "y": 1936
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "heart", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Cave",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 7064,
+                "y": 894
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "hwater", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Cave2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 4150,
+                "y": 2236
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "hwater", "red", "{}" ],
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Garlic",
+        "group": "Graveyard Area",
+
+        "children": [
+          {
+            "name": "Graveyard 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 8654,
+                "y": 900
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "garlic", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Graveyard 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 912,
+                "y": 970
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "garlic", "{}" ],
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Berkeley",
+        "group": "Mansion Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 6132,
+                "y": 250
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 6996,
+                "y": 400
+              }
+            ],
+            "sections": [
+              {
+                "name": "Pedestool",
+                "access_rules": [ "stake", "{}" ],
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rover",
+        "group": "Mansion Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 10026,
+                "y": 1600
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 10084,
+                "y": 1300
+              }
+            ],
+            "sections": [
+              {
+                "name": "Pedestool",
+                "access_rules": [ "stake", "{}" ],
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Brahms",
+        "group": "Mansion Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 2106,
+                "y": 1414
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "heart", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 3038,
+                "y": 1848
+              }
+            ],
+            "sections": [
+              {
+                "name": "Pedestool",
+                "access_rules": [ "stake", "heart", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Death",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 2700,
+                "y": 1920
+              }
+            ],
+            "sections": [
+              {
+                "name": "Boss item",
+                "access_rules": [ "heart", "{}" ],
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Laruba",
+        "group": "Mansion Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 2296,
+                "y": 2500
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "red", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 1866,
+                "y": 3142
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "red", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Room 3",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 3070,
+                "y": 3100
+              }
+            ],
+            "sections": [
+              {
+                "name": "Pedestool",
+                "access_rules": [ "stake", "red", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Carmilla",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 2734,
+                "y": 3176
+              }
+            ],
+            "sections": [
+              {
+                "name": "Boss item",
+                "access_rules": [ "red", "{}" ],
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bodley",
+        "group": "Mansion Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 6498,
+                "y": 2224
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "access_rules": [ "red", "{}" ],
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 6836,
+                "y": 2342
+              }
+            ],
+            "sections": [
+              {
+                "name": "Pedestool",
+                "access_rules": [ "stake", "red", "{}" ],
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aljiba",
+        "group": "Aljiba Area",
+
+        "children": [
+          {
+            "name": "Room 1",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 7712,
+                "y": 890
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1,
+                "access_rules": [ "hwater", "{}" ]
+              }
+            ]
+          },
+          {
+            "name": "Room 2",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 8510,
+                "y": 762
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1,
+                "access_rules": [ "hwater", "{}" ]
+              }
+            ]
+          },
+          {
+            "name": "Crystal Vendor",
+            "map_locations": [
+              {
+                "map": "front",
+                "x": 7696,
+                "y": 694
+              }
+            ],
+            "sections": [
+              {
+                "name": "Vendor",
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "Doina",
+            "group": "Doina Area",
+
+            "children": [
+              {
+                "name": "Room 1",
+                "map_locations": [
+                  {
+                    "map": "front",
+                    "x": 8034,
+                    "y": 1976
+                  }
+                ],
+                "sections": [
+                  {
+                    "name": "Vendor",
+                    "access_rules": [ "red", "{}" ],
+                    "item_count": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Veros",
+            "group": "Veros Area",
+
+            "children": [
+              {
+                "name": "Room 1",
+                "map_locations": [
+                  {
+                    "map": "front",
+                    "x": 5668,
+                    "y": 964
+                  }
+                ],
+                "sections": [
+                  {
+                    "name": "Vendor",
+                    "item_count": 1,
+                    "access_rules": [ "hwater", "{}" ]
+                  }
+                ]
+              },
+              {
+                "name": "Room 2",
+                "map_locations": [
+                  {
+                    "map": "front",
+                    "x": 6404,
+                    "y": 896
+                  }
+                ],
+                "sections": [
+                  {
+                    "name": "Vendor",
+                    "item_count": 1,
+                    "access_rules": [ "hwater", "{}" ]
+                  }
+                ]
+              }
+            ]
+
+
+          }
+        ]
+      }
+    ]
+  }
+]
