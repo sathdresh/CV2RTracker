@@ -7,29 +7,25 @@
 
           [
             "whip",
+            " ",
             "sbag",
-            "cross"
-          ],
-          [
+            "cross",
+            " ",
             "rib",
             "heart",
             "eye",
             "nail",
             "ring",
-            "crystal"
-          ],
-                   
-          [
+            "crystal",
+            " ",
             "dagger", 
             "sknife", 
             "gknife", 
             "hwater", 
             "diamond", 
             "sflame",
-            "stake"
-          ],
-            
-          [
+            "stake",
+            " ",
             "laurels", 
             "garlic"
           ]
@@ -44,7 +40,7 @@
             "content": [
                 {
                     "type": "dock",
-                    "dock": "left",
+                    "dock": "bottom",
                     "v_alignment": "stretch",
                     "content": [
                         {
