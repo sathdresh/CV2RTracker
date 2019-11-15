@@ -23,7 +23,7 @@
               {
                 "name": "Vendor",
                 "item_count": 1,
-                "access_rules": [ "hwater", "{}" ]
+                "access_rules": [ "hwater", "nail", "{}" ]
               }
             ]
           },
@@ -63,7 +63,7 @@
               {
                 "name": "Vendor",
                 "item_count": 1,
-                "access_rules": [ "hwater", "{}" ]
+                "access_rules": [ "hwater", "nail", "{}" ]
               }
             ]
           },
@@ -191,7 +191,7 @@
             "sections": [
               {
                 "name": "Vendor",
-                "access_rules": [ "hwater", "{}" ],
+                "access_rules": [ "hwater", "nail", "{}" ],
                 "item_count": 1
               }
             ]
@@ -208,7 +208,7 @@
             "sections": [
               {
                 "name": "Vendor",
-                "access_rules": [ "hwater", "red", "{}" ],
+                "access_rules": [ "hwater", "red", "nail", "{}" ],
                 "item_count": 1
               }
             ]
@@ -487,7 +487,7 @@
             "sections": [
               {
                 "name": "Vendor",
-                "access_rules": [ "red", "hwater", "{}" ],
+                "access_rules": [ "red", "hwater", "nail", "{}" ],
                 "item_count": 1
               }
             ]
@@ -504,7 +504,7 @@
             "sections": [
               {
                 "name": "Pedestool",
-                "access_rules": [ "red", "stake", "{}" ],
+                "access_rules": [ "red", "stake", "nail", "{}" ],
                 "item_count": 1
               }
             ]
@@ -608,7 +608,7 @@
                   {
                     "name": "Vendor",
                     "item_count": 1,
-                    "access_rules": [ "hwater", "{}" ]
+                    "access_rules": [ "hwater", "nail", "{}" ]
                   }
                 ]
               },
